@@ -1,5 +1,3 @@
-// Group: Diego Lopez, Denny Zhang, Santiago Orozco Buri
-
 /**
  * @file array_ptrs.cpp
  * by Diego Lopez

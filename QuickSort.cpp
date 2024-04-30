@@ -6,8 +6,6 @@
 //  Copyright © 2019 Bahamon, Julio. All rights reserved.
 //
 
-// Group: Diego Lopez, Denny Zhang, Santiago Orozco Buri
-
 /**
  * @file QuickSort_Skeleton.cpp
  * Edited by Diego Lopez

@@ -1,4 +1,4 @@
-// Diego Lopez, Denny Zhang, Santiago Orozco Buri
+// Diego Lopez
 #include <iostream>
 using namespace std;
 

@@ -8,8 +8,6 @@
 /*
  @file Processes.cpp
  @author Diego Lopez
- @author Denny Zhang
- @author Santiago Orozco Buri
  @description: Explore and use functions related to process creation & handling
  in Unix-based OSs
  @course: ITSC 3146

@@ -1,13 +1,12 @@
-// Diego Lopez
-#include <iostream>
-using namespace std;
-
 /*
  * This function swaps two integers given access
  * to via pointer parameters.
- *
+ * @author Diego Lopez
  * @param pointers of two integers
  */
+#include <iostream>
+using namespace std;
+
 void swapInts(int *a, int *b) {
   int buffer = *a; // Buffer variable to hold a
   *a = *b;         // Assign value of b to a

@@ -37,3 +37,18 @@ int main(void) {
 
 // to compile: gcc -Wall -std=c99 weather.c -o start
 // to run: ./start
+
+// Here are some test temperatures for the program:
+// (You can create a text file with these values and redirect the input to the program)
+/*
+91
+93
+92
+97
+90
+88
+95
+97
+96
+96
+*/
